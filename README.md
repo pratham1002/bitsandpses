@@ -20,6 +20,6 @@ Through this website, we aim to create a single domain for every student to get 
     <br>6. A database that updates itself automatically through crowd sourcing from oncoming traffic and content managers.
      
 ## Development URL
-Dev Deployment: https://bits-and-pses.herokuapp.com/
+Dev Deployment: http://bitsandpses.fail/ or https://bits-and-pses.herokuapp.com/
 
 We have created issues for our contributors which include simple bug fixes to enhancements and refactoring.
