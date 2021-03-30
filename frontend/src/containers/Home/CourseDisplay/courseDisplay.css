@@ -1,0 +1,158 @@
+.row-content {
+    padding: 100px 0px;
+}
+
+.heading { 
+    padding-bottom: 30px;
+}
+
+.course-container {
+    background-color: #FAFAFA;
+    box-shadow: 0px 0px 8px 0px rgba(3,83,164,0.71);
+    -webkit-box-shadow: 0px 0px 8px 0px rgba(3,83,164,0.71);
+    -moz-box-shadow: 0px 0px 8px 0px rgba(3,83,164,0.71);
+    margin-top: 10rem;
+}
+
+.no-comment {
+    font-family: 'Ubuntu', serif;
+    color: #C0C0C0;
+    font-weight: 300;
+}
+
+.post-comment-input {
+    border-radius: 50px !important;
+    border-width: 0px !important;
+    font-family: 'Ubuntu', serif;
+    font-weight: 300 !important;
+    color: #403D39;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.commenter {
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+
+.elec-course-sub-heading {
+    color: white;
+    background-color: #403D39;
+    font-family: 'Bree Serif', serif;
+    padding: 5px 0px;
+}
+
+.cg-card {
+    height: 225px !important;
+    margin-bottom: 20px;
+}
+
+.elec-discussion-container {
+    background-color: #EFEFEF;
+}
+
+.envelope-sd {
+    margin-top: 142px;
+}
+
+.course-number-heading {
+    font-size: 5rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #2A9134;
+    font-weight:400;
+}
+
+.course-heading {
+    color: #403D39;
+    font-weight: 400;
+}
+
+.course-heading::first-letter {
+    text-transform: capitalize;
+}
+
+.rank-designation {
+    font-size: 2.5rem;
+}
+
+.course-desc-highlight {
+    color: #0353a4;
+}
+
+.review-comment-card {
+    background-color: #FFFFFF;
+    padding-bottom: 20px;
+}
+
+.review-comments {
+    height: 500px;
+    overflow-y: auto;
+}
+
+.review-comment-card-title {
+    font-family: 'Ubuntu', serif;
+    color: #2A9134;
+    font-weight: 400;
+    border-style: none none ridge none;
+}
+
+.review-tab {
+    font-family: 'Ubuntu', serif !important;
+    color: #2A9134 !important;
+}
+
+.review-comment-name {
+    color: #0353a4;
+
+}
+
+.review-comment-content {
+    font-size: 0.85rem;
+}
+
+.post-button {
+    background-color: #2A9134 !important;
+    border-radius: 50px !important;
+    font-family: 'Ubuntu', serif;
+    font-weight: 300 !important;
+    border-width: 0px !important;
+    width: 100% !important;
+}
+
+.course-description {
+    background-color: white;
+    border-width: 12px !important;
+    border-color: #403D39 !important;
+    border-radius: 20px !important;
+    border-style: solid 
+}
+
+.description-header {
+    color: #2A9134;
+    font-family: 'Ubuntu', serif;
+    font-weight: 500 !important;
+    font-size: x-large;
+}
+
+.description-body {
+    color: #403D39;
+    font-family: 'Ubuntu', serif;
+    font-weight: 400 !important;
+    font-size: x-large;
+}
+
+@media screen and (max-width: 768px) {
+    .description-header {
+        font-size: larger;
+        font-weight: 400 !important;
+    }
+
+    .description-body {
+        font-size: larger;
+        font-weight: 300 !important;
+    }
+}
+
+.profs-names {
+    width: 100% !important;
+}
